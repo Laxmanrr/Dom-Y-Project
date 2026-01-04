@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body,
+html {
+  height: 100%;
+  width: 100%;
+  background-color: rgb(101, 183, 255);
+}
+#main {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+#box img {
+  height: 500px;
+  width: 350px;
+  object-fit: cover;
+  border-radius: 1rem;
+  border: solid rgb(255, 255, 255) 4px;
+}
+
+#box i {
+  color: #fff;
+  font-size: 5rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%) scale(0);
+  opacity: 0;
+  transition: transform ease 0.5s;
+}
