@@ -61,15 +61,6 @@ Basic DOM operations such as selecting elements, updating content, and handling 
 
 ---
 
-### 6️⃣ Sliding Image Gallery
-**Description:**  
-Image slider created using JavaScript for smooth transitions and user interaction.
-
-🔗 **Live Demo:**  
-👉 https://laxmanrr.github.io/Dom-Y-Project/Sliding_img/
-
----
-
 ## 🎯 Learning Objectives
 
 - Understand **DOM structure & traversal**
@@ -90,4 +81,5 @@ Image slider created using JavaScript for smooth transitions and user interactio
 ---
 
 ⭐ If you find these projects useful, don’t forget to **star the repository**!
+
 
