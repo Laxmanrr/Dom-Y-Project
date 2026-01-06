@@ -1,8 +1,8 @@
 # 🚀 DOM-Y-Project
 
-A collection of **JavaScript DOM (Document Object Model) mini projects** built to strengthen core front-end concepts such as event handling, dynamic UI updates, and user interactions.
+A collection of **JavaScript DOM (Document Object Model) mini projects** built to strengthen core front-end concepts such as event handling, animations, and dynamic UI updates.
 
-Each project is lightweight, beginner-friendly, and deployed live using **GitHub Pages**.
+All projects are **lightweight, beginner-friendly**, and deployed live using **GitHub Pages**.
 
 ---
 
@@ -10,8 +10,11 @@ Each project is lightweight, beginner-friendly, and deployed live using **GitHub
 
 - **HTML5**
 - **CSS3**
-- **SCSS (Sass)**
 - **JavaScript (DOM Manipulation)**
+
+> ⚠️ **Note:**  
+> These projects are currently styled using **plain CSS**.  
+> **SCSS/Sass is not used yet**, but may be added in future enhancements for better scalability and maintainability.
 
 ---
 
