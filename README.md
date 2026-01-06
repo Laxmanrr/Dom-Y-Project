@@ -12,10 +12,6 @@ All projects are **lightweight, beginner-friendly**, and deployed live using **G
 - **CSS3**
 - **JavaScript (DOM Manipulation)**
 
-> ⚠️ **Note:**  
-> These projects are currently styled using **plain CSS**.  
-> **SCSS/Sass is not used yet**, but may be added in future enhancements for better scalability and maintainability.
-
 ---
 
 ## 📂 Projects List
@@ -94,3 +90,4 @@ Image slider created using JavaScript for smooth transitions and user interactio
 ---
 
 ⭐ If you find these projects useful, don’t forget to **star the repository**!
+
